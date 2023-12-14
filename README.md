@@ -10,4 +10,4 @@ Pour utiliser le repo dans le cadre cette formation:
 6. Activer l'environnement virtuel :
     - Sous Windows : `python_int_env\Scripts\activate`
     - Sous Mac : `source python_int_env/bin/activate`
-7. Installer les dépendances nécessaires : `pip install requirements.txt`
+7. Installer les dépendances nécessaires : `pip install -r requirements.txt`
