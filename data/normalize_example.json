@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "location": {"city": "Paris", "postal_code": "75000"},
+      "hobbies": ["reading", "cycling"]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "location": {"city": "Lyon", "postal_code": "69000"},
+      "hobbies": ["chess", "running"]
+    }
+  ]
